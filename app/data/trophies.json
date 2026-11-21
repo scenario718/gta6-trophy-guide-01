@@ -8,385 +8,680 @@
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "guide": "This platinum has no job of its own. Earn the other 54 trophies, including the gold for 100% completion, and it pops on its own. The set is single-player only, so plan one long offline playthrough and keep cheats off that save.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. TheTechBasket, 20 Nov 2026, for the offline-only makeup and the note that cheats block trophies.",
+   "hidden": false
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "guide": "Finish the mission Gone Fishing. Launch lists put it at the start of Chapter 1, so this is one of the first bronzes you will see. It is required story, which is why it is not flagged as missable.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "guide": "Finish Chapter 1. The trophy is named for the following chapter, so do not sit around waiting for a mission called Paradise Lost. When the game moves you on, this bronze should already be done.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026. TheTechBasket, 20 Nov 2026, on chapter trophies taking the next chapter’s name.",
+   "hidden": true
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "guide": "Finish Chapter 2. The title matches the next chapter on the published lists, and the description is the part that matters. Play the chapter through. There is no extra stunt hiding in the name.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "guide": "Finish Chapter 3. The same naming pattern holds: the trophy title points at the next chapter, and the description is simply to complete this one. It cannot be skipped. If a stranger strand is still timed, clear that before you leave.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "guide": "Finish Chapter 4. That is the whole official line. Mission lists place Child’s Play, Headliners, and VCIA Takedown inside the chapter, then a closer after the airport job. Completing the chapter, not any single one of those jobs, is what this description asks for.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "guide": "Complete the final mission. Lists put it at the end of Chapter 5, after Operation Savage Glory. Write a manual save before you start. Those lists say the finale can be replayed afterward and that earlier missions cannot, so the save protects leftover mission objectives, not this trophy.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026. TheTechBasket, 20 Nov 2026, on mission replay.",
+   "hidden": true
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "guide": "Finish the mission Breakfast Run. Lists place it in Chapter 2, after Daily Driver and near Coffee Break, though a slot can shift between playthroughs. It is required story, so playing the chapter earns it. The description asks for no medal and no bonus.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "guide": "Finish the mission The Cartel Heist. Lists put that job late in Chapter 3. Play it out to the mission-complete screen. The description does not ask for a silent run, a timer, or a particular crew.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "guide": "Finish the mission Child’s Play. Chapter 4 lists put it mid-chapter, before Headliners and the airport heist. It is required, so it is not on the missable list. Let the mission end instead of reloading off the completion screen.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "guide": "Finish the mission Headliners. Chapter 4 orders put it after Child’s Play and before VCIA Takedown, with a few nearby setup jobs swapping places between lists. The description is only that completion. It does not ask you to botch a take or skip a scene.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "guide": "Finish the mission VCIA Takedown. Lists agree it is the Chapter 4 airport job, late in the chapter. Do not mix it up with Catch Me If You Can, whose description is an unscheduled departure at the same airport rather than this mission.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "guide": "Finish the mission Operation Savage Glory. Lists place it in Chapter 5, after the chapter opens and before the final mission. The bronze pops when that mission is done. The description adds no bonus condition.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Chapter placement from Dexerto and GameTrek mission lists, 18 Nov 2026.",
+   "hidden": true
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
+   "guide": "Reach 100% completion, which PlayStation tracks as a percentage. This is the long gold: the in-game Progress checklist, not every named pastime in Leonida, and several other trophies stop earlier than that checklist. Launch guides call it the time sink of the set, not a harder difficulty, so keep going after the smaller ones pop.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. The Click, 20 Nov 2026, on the checklist being a defined set. TheTechBasket, 20 Nov 2026, names this the long gold.",
+   "hidden": false,
+   "target": 100,
+   "targetLabel": "percent"
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "guide": "Complete 250 stunts. The silver’s PlayStation counter is 250, so treat that as the target rather than a round number you can fudge. Knock them out while you cross the map instead of saving a lump of them for the end. They also feed the 100% checklist, so the same riding clears two goals.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies.",
+   "hidden": false,
+   "target": 250,
+   "targetLabel": "stunts"
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "guide": "Try each activity type once. PlayStation’s counter is 9, which matches the words “each type”, and you do not need a win or a gold, only an attempt of each kind. Launch-day players saw the counter skip something they thought should count, so trust the in-game 0/9, because the nine types are not named in the official line.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. PSNProfiles forum threads, 18 Nov 2026, on the counter moving out of step with what players had tried.",
+   "hidden": false,
+   "target": 9,
+   "targetLabel": "activity types"
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "guide": "Earn a gold medal on every Shooting Range challenge. The PlayStation counter is 42, so plan on 42 golds rather than 42 visits, and a launch note says the 100% checklist may accept fewer golds than this trophy. Work one lane until the gold time feels ordinary, then move on, since the description states no chapter lock.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. gta.guide, 18 Nov 2026, for the note that 100% and this trophy are not the same bar.",
+   "hidden": false,
+   "target": 42,
+   "targetLabel": "gold medals"
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "guide": "Win a Top Fun drone race at every location. Launch guides count 14 locations, and one win at each is enough for this bronze, while the same guides say each site has three races and that 100% wants the wider set. One site is described as reachable only by boat or aircraft, and nothing in the description makes a location close.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. gamer.org, 19 Nov 2026, for 14 locations and one win each, paraphrased.",
+   "hidden": false,
+   "target": 14,
+   "targetLabel": "locations"
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "guide": "Win 20 different races. The same race twice does not match the word “different”, and launch notes put the full list higher than 20, around 40, so you can pick the ones you like. If you are unsure which playlist the counter reads, check it after a win, and otherwise chip away in free roam.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. gta.guide, 18 Nov 2026, for the larger race list and the note that repeats do not count.",
+   "hidden": false,
+   "target": 20,
+   "targetLabel": "different races"
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "guide": "Beat Cal in a fishing challenge. The description names both the person and the activity, so find his challenge and win it once. It does not say you must catch every species or hold a record past that win. Fishing can also nudge the activity counter, but that is a separate trophy.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "guide": "Complete one arcade game. The description says “an” arcade game, so a single clear is enough. A launch list mentions four cabinets, and any one of them should satisfy the line. You do not need a perfect score unless that cabinet will not end without one.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the four-cabinet reading.",
+   "hidden": false
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "guide": "Complete the final mission for Andy. This is a stranger strand, not a main-chapter mission, and the description stops at his last job, so start his work when it appears and play it to the end. Clear anything marked as timed before a chapter moves on, because this bronze is the end of his strand rather than a separate lockout.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. game-checklists.com, 21 Nov 2026, for the warning on timed stranger work.",
+   "hidden": true
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "guide": "Complete the final mission for Kenton. It has the same shape as the other named-character bronzes: his strand has a last mission, and that is the trophy. The description does not say which chapter he starts in. Finish the strand once you have begun it, especially if the icon looks timed.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": true
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "guide": "Complete the final mission for Billy. Play his strand through to the job the game treats as his last. The Click describes about five jobs. That count is their note, not part of the official sentence, so follow the in-game strand instead of stopping at a number.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the five-job reading, marked as their note.",
+   "hidden": true
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "guide": "Complete 8 stranger mission strands across Leonida. PlayStation’s counter is 8, the named “final mission for” bronzes are strands, and you still need enough of them, plus whatever else the game counts, to hit 8. A launch checklist says the Chapter 3 strand Race Against Yago can expire, which is why this silver is flagged, so start timed strands when they appear.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. game-checklists.com, 21 Nov 2026, on Race Against Yago.",
+   "hidden": false,
+   "target": 8,
+   "targetLabel": "strands"
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "guide": "Complete the final mission for Randy. The Click files his strand as a vehicle wishlist, but that label is theirs, not the official text, which only says to finish his last mission. Work the jobs he gives you until the strand ends, and it should count toward the eight strands if the game files him there.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the vehicle-wishlist label.",
+   "hidden": true
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "guide": "Complete the final mission for Tyrone. One launch table marks the strand as Jason-only, though the official line does not say that, so switch character before you assume the strand is gone. Finish the last mission he offers, since this is a stranger bronze and not a chapter trophy.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. timesaver.gg, 19 Nov 2026, for the Jason-only note.",
+   "hidden": true
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "guide": "Meditate at every spot in Leonida. PlayStation counts 18, and the collections list is the tracker to trust, because the 100% checklist is reported to accept fewer than every spot. Before Chapter 1 ends, accept the balcony session Lucia offers at the house after Down to Earth. PowerPyx called that session the one possible missable on 18 Nov 2026, and a 21 Nov note said the trophy can pop without it, so do it anyway.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. PowerPyx, via the PSNProfiles forum, 18 Nov 2026. game-checklists.com, 21 Nov 2026. The Click, 20 Nov 2026, on both characters after Coffee Break.",
+   "hidden": false,
+   "target": 18,
+   "targetLabel": "meditation spots"
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "guide": "Hunt a unique animal for Bret. The description names one person and one unique animal, not a full wildlife list, so follow his hunt to the end. A launch table marks the strand Jason-only, so switch to Jason if Bret never calls, and remember that studying animals for 100% is a larger, separate task.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. timesaver.gg and Output Lag, 19 Nov 2026, for the Jason-only hunt note.",
+   "hidden": true
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
+   "guide": "Complete 3 collectible card sets. Any three finished sets meet the description, and you do not need every set in the game for this silver. A set counts when it is complete, not when you are holding a loose pile of singles, so check the collection screen before you assume you are done.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for “any three”.",
+   "hidden": false,
+   "target": 3,
+   "targetLabel": "card sets"
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "guide": "Use WAiNK It at 100 locations, which is what PlayStation tracks. Launch guides separate this from vehicle scans, which feed Whip It Good instead, and the locations that count are landmarks, curiosities, sculptures, and tags. The pool is a little larger than 100, so a few hard ones can be skipped, and you scan on foot when the phone marks a spot.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. The Click, 19 Nov 2026, and GameTrek, 18 Nov 2026, on which scans count and which murals do not.",
+   "hidden": false,
+   "target": 100,
+   "targetLabel": "locations"
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "guide": "Complete 50 challenges. The description stops at 50, while launch guides say the game holds about 80 and that 100% asks for more than this bronze, so the trophy can pop while A Long Road is still open. Many challenges finish during ordinary play, so use the Progress list for the rest and do not stop at 50 if you want the platinum.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, on 50 of about 80. gta.guide, 18 Nov 2026, puts the 100% figure near 70. Use the in-game list.",
+   "hidden": false,
+   "target": 50,
+   "targetLabel": "challenges"
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "guide": "Reach a 4-star wanted level with your partner beside you, then lose the stars and get out of the heat. All three parts are in the description, the stars, the partner, and the escape, so pull the heat somewhere you can actually flee and do not switch off the pair before the stars hit zero. No chapter deadline is stated.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "guide": "Rob three shops in a row with your partner without losing the wanted level. Back-to-back means the stars have to stay up across all three, so pick stores that sit close together and do not shake the police between them. If the stars drop, the chain breaks and you start again, and the line is not tied to a mission.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "guide": "Discover 100 vehicles. Guides read “discover” as a WAiNK scan stored with vehicles, not as sitting in the driver’s seat and not as the landmark scans used for You WAiNKer, and PlayStation’s counter is 100. Scan what you drive past from early on, since you do not need every vehicle in Leonida for this bronze.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. PlayStation counter from PSNProfiles — GTA VI trophies. PSNProfiles forum, 18 Nov 2026, on scanning vehicles with the WAiNK app.",
+   "hidden": false,
+   "target": 100,
+   "targetLabel": "vehicles"
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "guide": "Take down 5 enemies in a single use of Combat Focus. One activation has to cover all five, because five separate uses do not match the description, so trigger Focus while several targets are still standing and finish them before it ends. A fuller Focus meter gives you a kinder window, and the line does not require a particular weapon.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Output Lag, 19 Nov 2026, on Focus as a general combat note.",
+   "hidden": false
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "guide": "Make an unscheduled departure at VCIA. The line is a riddle, not a mission name, and Hi-Jacked is the scheduled airport job, so this bronze asks for a departure that is not on that schedule. A launch write-up says to take a passenger jet from a boarding bridge and fly it a short distance, that jets parked out on the airfield do not count, and the description does not lock the stunt to the mission.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. timesaver.gg, 19 Nov 2026, for the boarding-bridge reading.",
+   "hidden": true
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "guide": "The official line is only “Kinda hot in these Rhinos.” Rhino is the tank, and the pun is the whole clue. A launch note says to take one from Mile Zero Air Station and use it. Steal it, fire it, and leave. The description sets no kill count and no deadline, so it is filed here as a free-roam secret.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. timesaver.gg, 19 Nov 2026, for the air-station reading.",
+   "hidden": true
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "guide": "Rob a jewelry store without being detected. A loud smash does not count, even if you escape afterward, so take the quiet approach the store allows and get out before an alarm or a witness ruins it. If you are spotted, leave and try a fresh visit, because the description does not tie the robbery to a story mission.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "guide": "Rob 5 bank vaults and escape. Both halves count, the vault and getting away, and five is in the description, so five vaults is the reading rather than five trips to the same door. Escape means leaving the wanted heat, not only reaching the sidewalk, and this is free-roam work rather than one story heist.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false,
+   "target": 5,
+   "targetLabel": "bank vaults"
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "guide": "Rob an armored truck and escape. Stop the truck, take the cargo, and lose the wanted level. One launch guide says getting away after a bank-vault job can also move the trophy, so if your counter does not move, do a truck and leave the heat, because the description itself only requires the robbery and the escape.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. gta.guide, 18 Nov 2026, for the vault-escape report.",
+   "hidden": false
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "guide": "Explore all of Leonida, which in practice means clearing the black fog off the map. A plane covers ground faster than a car, and a few mission interiors are reported to reveal a chunk when you look at a map on a wall, which is a bonus rather than a requirement. The figure of 52 areas is the counter note carried with this list, so fly a loose grid and check the map between passes.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Counter note of 52 areas from the list this guide started from (PSNProfiles-style targets). gta6info.com, 19 Nov 2026, on flying the fog off.",
+   "hidden": false,
+   "target": 52,
+   "targetLabel": "areas"
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "guide": "Rob an illegal operation belonging to each gang. The counter note on this list is 9 gangs, so one site per gang is the target, not every site on the map, and the progress list will show if two hits on the same gang left another at zero. The description states no chapter lock, so do them as the gangs become active.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Counter note of 9 gangs from the list this guide started from.",
+   "hidden": false,
+   "target": 9,
+   "targetLabel": "gangs"
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "guide": "The official line is “Enjoy a cocktail with a view on Ocean Beach.” A launch list reads that as a specific drink at a rooftop bar there, which is their decoding rather than a step printed on the trophy, so go to Ocean Beach, find a bar with a view, and order a cocktail. If nothing pops, their reading names an Apple Martini at the Ocean View Rooftop Bar, and no deadline is shown.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the rooftop-bar reading, not verified in this project.",
+   "hidden": true
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "guide": "Smash your way out of a vehicle showroom in classic style. A launch list reads that as driving a featured sports car out through the glass rather than the door, so find a showroom, get in the car, and leave through the window. If their car name is wrong, the description still only requires the smash exit, and nothing in the line says the shop closes.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the showroom-window reading.",
+   "hidden": true
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "guide": "Follow through at the bowling alley the description names, Kolt & Associates. A launch note instead describes robbing three valuables at a Port Gellhorn bowling alley and then losing the police, which may be the same place under two write-ups or two different leads. Bowl there first, and if that does not pop, try the robbery reading and escape, since neither deadline appears in the official line.",
+   "source": "Source: Exophase — GTA VI PSN trophy list, which names the alley. timesaver.gg, 19 Nov 2026, for the robbery reading.",
+   "hidden": true
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "guide": "The official line is only “A partnership with mass appeal.” Two launch lists read it as maxing Strength on both protagonists at the same time. That fits a partnership better than a solo gym visit, and it is still their reading. Train both characters until Strength is capped together, then check the trophy. No chapter lock is stated.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click and timesaver.gg, 19–20 Nov 2026, for the Strength reading.",
+   "hidden": true
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "guide": "The official line is “Choices made (for better or worse).” The PlayStation counter on this list runs to 500, which reads as a long tally, not one dialogue branch. Launch notes tie the actions to whatever moves your criminal profile. Play in a way that changes that profile, and keep going in free roam. It is flagged as a watch because mission choices cannot be replayed, not because one wrong branch is known to lock it.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. Counter of 500 from the list this guide started from. The Click, 20 Nov 2026, on criminal-profile actions. TheTechBasket, 20 Nov 2026, on replay.",
+   "hidden": true,
+   "target": 500,
+   "targetLabel": "actions"
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "guide": "The official line is only “Second time’s the charm.” As of the 20 Nov 2026 write-ups, no method had been shown reliably enough to call confirmed, and the leading theory is a return to the prologue payday-loan shop after a Chapter 3 mission makes a second robbery possible. The Click also records a player who tried that twice and got nothing, so look for the return and do not treat it as solved.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, including their note that a repeat robbery did not pay out.",
+   "hidden": true
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "guide": "The official line is “What the hell just happened?” A launch list files it as a UFO roadside encounter and does not give a map pin in the summary used here. Drive the highways and stop for anything that does not belong. That is a search hint, not a confirmed trigger. It is not flagged missable, because neither the description nor that note puts it inside a chapter.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the roadside-encounter filing.",
+   "hidden": true
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "guide": "The official line is “Bowl ’em over with a melee drive-by.” A melee hit from a moving vehicle is what the sentence describes, and a launch list reads the target as 10 people on foot, kicked from a bike, inside 60 seconds. Use that as the working number and a bike as the working vehicle, then see if the trophy pops, because the number and the timer are their reading and the melee drive-by is the official clue.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. The Click, 20 Nov 2026, for the bike reading.",
+   "hidden": true
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "guide": "Earn $250,000 by laundering marked bills through your contacts. The figure is a total, so smaller drops add up: marked bills come off dirty jobs, and contacts are the people who clean them. Hand the bills over when a contact will take them, and remember that spending the same money in a shop is a different trophy with no deadline stated on this one.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false,
+   "target": 250000,
+   "targetLabel": "dollars"
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "guide": "Spend $100,000 across shops. The total is what matters, not one giant purchase, and “across all shops” means the sum of shop spending, with weapons, vehicle work, and clothes moving the number fastest. Money a shop will not accept does not help, so pay with cash the register takes, and the description does not name a particular item.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. gta.guide, 18 Nov 2026, on what spends fastest, paraphrased.",
+   "hidden": false,
+   "target": 100000,
+   "targetLabel": "dollars"
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "guide": "Purchase all garage properties. The counter note on this list is 8 garages, and a launch guide says they are the eight sold in the Vice City real-estate app, which opens after the Chapter 2 mission Daily Driver, for a combined price around $160,000. Garages the story hands you do not count, so buy the listed ones, and the app stays available.",
+   "source": "Source: Exophase — GTA VI PSN trophy list. gta.guide, 18 Nov 2026, for the app, the price, and the story-garage exclusion. Counter of 8 from the list this guide started from.",
+   "hidden": false,
+   "target": 8,
+   "targetLabel": "garages"
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "guide": "Register 10 vehicles with the Scooter Bros app. Ten registrations is the requirement, not ten cars merely parked in a garage, so open the app, register a vehicle you have, and repeat. The description does not insist the vehicles be different types, but ten different ones is the safe reading, and it can wait until the app is on your phone.",
+   "source": "Source: Exophase — GTA VI PSN trophy list (official name, description, and grade).",
+   "hidden": false,
+   "target": 10,
+   "targetLabel": "vehicles"
+  }
+ ],
+ "roadmap": [
+  {
+   "id": "ch1",
+   "kicker": "01 · Chapter 1",
+   "title": "Just Like Paradise",
+   "note": "Gone Fishing opens the chapter and pops the trophy of that name. Paradise Lost is the official line for finishing Chapter 1: the name belongs to the next chapter. Take the house meditation before you leave.",
+   "steps": [
+    2,
+    28,
+    3
+   ]
+  },
+  {
+   "id": "ch2",
+   "kicker": "02 · Chapter 2",
+   "title": "Paradise Lost",
+   "note": "Breakfast Run is the whole requirement for Trust. Finishing the chapter pops T**s Ass Drug Money. Both are required story, so neither is flagged.",
+   "steps": [
+    8,
+    4
+   ]
+  },
+  {
+   "id": "ch3",
+   "kicker": "03 · Chapter 3",
+   "title": "The long middle",
+   "note": "The Cartel Heist is the mission behind Break the Bank. Finishing the chapter pops Vice City, Baby! Start stranger strands as they appear. One Chapter 3 strand is reported as timed.",
+   "steps": [
+    9,
+    25,
+    5
+   ]
+  },
+  {
+   "id": "ch4",
+   "kicker": "04 · Chapter 4",
+   "title": "Vice City, Baby",
+   "note": "Child’s Play, Headliners, and VCIA Takedown are the named missions here, in that order on the launch lists. Top Of The World, Ma is the trophy for finishing the chapter, not for any one of those jobs.",
+   "steps": [
+    10,
+    11,
+    12,
+    6
+   ]
+  },
+  {
+   "id": "ch5",
+   "kicker": "05 · Chapter 5",
+   "title": "Top of the World, Ma",
+   "note": "Operation Savage Glory is the mission behind Snow Storm. The final mission is the gold. Save to a fresh slot first. Lists say the finale can be replayed and earlier missions cannot.",
+   "steps": [
+    13,
+    7
+   ]
+  },
+  {
+   "id": "strangers",
+   "kicker": "06 · Side strands",
+   "title": "Strangers",
+   "note": "Each “final mission for” line is that character’s last job. Fair Game is Bret’s unique animal. Six named bronzes do not by themselves make the silver, which wants 8 strands.",
+   "steps": [
+    22,
+    23,
+    24,
+    26,
+    27,
+    29
+   ]
+  },
+  {
+   "id": "activities",
+   "kicker": "07 · Pastimes",
+   "title": "Activities and counters",
+   "note": "Attempts, wins, and gold medals. Chip away during the story. The 100% checklist often asks for more than the trophy, so do not stop when the bronze pops.",
+   "steps": [
+    16,
+    21,
+    20,
+    46,
+    19,
+    18,
+    15,
+    17,
+    32
+   ]
+  },
+  {
+   "id": "collect",
+   "kicker": "08 · The map",
+   "title": "Collectibles",
+   "note": "Scans, cards, vehicles, fog of war, garages, and registrations. The Chapter 1 meditation warning is earlier on the path. None of these lines is a cutscene you can miss by skipping ahead.",
+   "steps": [
+    31,
+    30,
+    35,
+    42,
+    55,
+    54
+   ]
+  },
+  {
+   "id": "heat",
+   "kicker": "09 · Heat",
+   "title": "Crime and cash",
+   "note": "Wanted-level stunts, robberies, and two money totals. Bring your partner for the two descriptions that say so. Escape means the wanted level actually drops.",
+   "steps": [
+    36,
+    33,
+    34,
+    39,
+    41,
+    40,
+    43,
+    52,
+    53
+   ]
+  },
+  {
+   "id": "secrets",
+   "kicker": "10 · Riddles",
+   "title": "Hidden one-offs",
+   "note": "These official lines are jokes, not mission names. The guide quotes a launch reading and says when that reading is unconfirmed. Two are flagged because the wording is a second chance or a string of choices.",
+   "steps": [
+    37,
+    38,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "id": "end",
+   "kicker": "11 · Close the ledger",
+   "title": "100% and the platinum",
+   "note": "A Long Road is the in-game 100% checklist. Vice Got a Price! pops only when the other 54 are done. Cheats are reported to block trophies, so keep them off this save.",
+   "steps": [
+    14,
+    1
+   ]
   }
  ]
 }

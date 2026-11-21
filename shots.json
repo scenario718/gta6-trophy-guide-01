@@ -1,5 +1,26 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  {
+    "file": "1-checklist.jpg",
+    "path": "/?shot=checklist&open=28",
+    "viewport": { "width": 1280, "height": 800 },
+    "note": "Checklist with Positive Mental Attitude open: official line, guide, PlayStation counter, citation, and missable reason."
+  },
+  {
+    "file": "2-roadmap.jpg",
+    "path": "/?shot=roadmap",
+    "viewport": { "width": 1280, "height": 800 },
+    "note": "Platinum roadmap from Chapter 1, with the meditation trophy flagged missable."
+  },
+  {
+    "file": "3-missables.jpg",
+    "path": "/?shot=missables&open=28",
+    "viewport": { "width": 1280, "height": 800 },
+    "note": "Missable filter on, with the reason each flag was read from the official description."
+  },
+  {
+    "file": "4-progress.jpg",
+    "path": "/?shot=progress&open=8&spoilers=1",
+    "viewport": { "width": 1280, "height": 800 },
+    "note": "Saved progress, grade counts, and story spoilers hiding unearned names."
+  }
 ]
